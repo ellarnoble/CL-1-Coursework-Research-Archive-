@@ -4,8 +4,8 @@ This repository accompanies a research report investigating sentiment classifica
 
 # Structure of Repository
 The repository is organised into two code files: 
-- Baseline model: contains code which was used to generate and evaluate a baseline comparison for the model proposed in the research report.
-- Proposed Embeddings model: contains code which was used to generate and evaluate the proposed model in the research report.
+- 'Baseline Model': contains code which was used to generate and evaluate a baseline comparison for the model proposed in the research report.
+- Proposed 'Embeddings Model': contains code which was used to generate and evaluate the proposed model in the research report.
 
 These files can be run independently. The order in which the files are run is up to the preference of the reader.
 

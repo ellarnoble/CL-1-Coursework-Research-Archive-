@@ -1,6 +1,6 @@
 ## CL-1-Coursework-Research-Archive-
 # Project Overview 
-This repository accompanies a research report investigating sentiment classification across multiple product-type domains using Amazon product reviews. The repository contains two classification models, one baseline and one proposed, with a focus on robustness and generalisation across product-type domains.
+This repository accompanies a research report investigating sentiment classification across multiple product-type domains using Amazon product reviews. The proposed model is designed to be robust and generalisable across a variety of product-type domains. 
 
 # Structure of Repository
 The repository is organised into two code files: 

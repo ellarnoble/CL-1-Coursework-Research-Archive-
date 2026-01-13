@@ -1,11 +1,11 @@
 ## CL-1-Coursework-Research-Archive-
 # Project Overview 
-This repository accompanies a research report investigating sentiment classification across multiple product-type domains using Amazon product reviews. The proposed model is designed to be robust and generalisable across a variety of product-type domains. 
+This repository accompanies a research report investigating sentiment classification across multiple product-type domains using Amazon reviews. The proposed model is designed to be robust and generalisable across a variety of consumer product types. 
 
 # Structure of Repository
 The repository is organised into two code files: 
-- 'Baseline Model': contains code which was used to generate and evaluate a baseline comparison for the model proposed in the research report.
-- 'Embeddings Model': contains code which was used to generate and evaluate the proposed model in the research report.
+- 'Baseline Model': contains code which was used to generate and evaluate a baseline comparison for the proposed model.
+- 'Embeddings Model': contains code which was used to generate and evaluate the model proposed in the research report.
 
 These files can be run independently. The order in which the files are run is up to the preference of the reader.
 
@@ -21,4 +21,4 @@ All code can be run top to bottom. Some cells, in which variables were saved to 
 
 
 # Reproduction of Results
-Model evaluation metrics exhibit minor variation across re-training runs using fixed hyperparameters and controlled randomness. This variation is attributed primarily to floating-point arithmetic and does not affect the interpretation of the results. 
+Model evaluation metrics exhibit minor variation across re-training runs using fixed hyperparameters and controlled randomness. This variation is attributed to floating-point arithmetic and does not affect the interpretation of the results. 

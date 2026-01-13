@@ -17,7 +17,7 @@ The proposed model uses pre-trained 'GoogleNews' word2vec embeddings which are d
 # Running the Code
 The code was developed and executed using Python 3.12 (64-bit) via Jupyter Notebook in Anaconda Navigator. All code dependencies are imported in the first cell of each file and consist of NumPy, Matplotlib (for visualisation) and selected Python standard library modules.
 
-All code can be run top to bottom. Some cells, in which variables were saved to local machines for reuse, are commented out to avoid unwanted downloads. Certain cells are marked with a warning for expected additional runtime; however no individual cell should take more than approximately five minutes. Running each file will output model and data evaluation metrics as well as a graphical depiction of loss functions. 
+All code can be run top to bottom. Some cells, in which variables were saved to local machines during development, are commented out to avoid unwanted file creation. Certain cells are marked with a warning for expected additional runtime; however no individual cell should take more than approximately five minutes to run. Running each file will output model and data evaluation metrics as well as a graphical depiction of loss functions. 
 
 
 # Reproduction of Results
